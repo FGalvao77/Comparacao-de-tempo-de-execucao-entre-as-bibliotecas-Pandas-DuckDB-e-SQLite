@@ -1,0 +1,1 @@
+# Performance-de-tempo-de-execu-o-entre-as-bibliotecas-Pandas-DuckDB-e-SQLite
